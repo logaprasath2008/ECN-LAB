@@ -24,18 +24,15 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2026-03-17 at 6 25 59 PM](https://github.com/user-attachments/assets/f5cfa756-d0b0-408d-b397-8be2ea20a97d)
 
+**TBULATION:**
 
-
-
-
-
-
-
-
+![WhatsApp Image 2026-03-17 at 6 26 13 PM](https://github.com/user-attachments/assets/a9bcbb5a-c4f7-4b2f-8193-edc9a78db6ea)
 
 
 **PROCEDURE:**
+
 
  *1.Give connections as per the circuit diagram.*
 
